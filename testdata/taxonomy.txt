@@ -1,0 +1,24 @@
+Apparel & Accessories > Clothing > Shirts & Tops
+Apparel & Accessories > Clothing > Pants
+Apparel & Accessories > Clothing > Outerwear > Coats & Jackets
+Apparel & Accessories > Clothing > Activewear
+Apparel & Accessories > Clothing > Dresses
+Apparel & Accessories > Clothing > Underwear & Socks > Socks
+Apparel & Accessories > Shoes
+Apparel & Accessories > Handbags, Wallets & Cases > Handbags
+Apparel & Accessories > Handbags, Wallets & Cases > Wallets & Money Clips
+Apparel & Accessories > Clothing Accessories > Hats
+Apparel & Accessories > Clothing Accessories > Belts
+Apparel & Accessories > Clothing Accessories > Sunglasses
+Apparel & Accessories > Jewelry > Watches
+Home & Garden > Kitchen & Dining > Cookware & Bakeware
+Home & Garden > Kitchen & Dining > Tableware > Drinkware
+Home & Garden > Linens & Bedding > Bedding
+Home & Garden > Decor
+Electronics > Audio > Headphones
+Electronics > Communications > Telephony > Mobile Phone Accessories
+Electronics > Computers > Computer Accessories
+Sporting Goods > Exercise & Fitness > Yoga & Pilates
+Sporting Goods > Outdoor Recreation > Camping & Hiking
+Toys & Games > Toys
+Health & Beauty > Personal Care > Cosmetics
